@@ -1,17 +1,15 @@
-# aplikasi_keuangan_pribadi
+PAB_IFB5A_2411014
+Pemrograman Aplikasi Bergerak
+Nama: Charly Joezer NIM: 2411014 Kelas: IFB5A Mata Kuliah: Pemrograman Aplikasi Bergerak
 
-A new Flutter project.
+Judul Proyek
+Aplikasi kelola keuangan pribadi
 
-## Getting Started
+Deskripsi
+Mengatur pengeluaran dari pemasukan sebulan agar menjadi lebih efisien dalam mengelola uang pribadi
 
-This project is a starting point for a Flutter application.
+Teknologi/Framework
+Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Repository
+GitHub/GitLab
